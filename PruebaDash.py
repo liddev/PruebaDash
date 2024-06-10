@@ -9,6 +9,7 @@ df = pd.DataFrame({
 })
 
 app = dash.Dash(__name__)
+server=app.server
 
 app.layout = html.Div(style={'backgroundColor': 'black', 'color': 'white'}, children=[
     html.H1(children='Prueba'),
