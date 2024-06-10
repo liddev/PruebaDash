@@ -1,0 +1,6 @@
+Realización de pruebas.
+Dash=2.16.1
+Python=3.10
+Cuenta Render
+
+#Esto es una prueba
